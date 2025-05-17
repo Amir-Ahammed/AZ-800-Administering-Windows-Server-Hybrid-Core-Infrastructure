@@ -12,3 +12,15 @@ As a candidate for this certification, you’re responsible for configuring and 
 * Implement disaster recovery
 * Migrate servers and workloads
 * Monitor and troubleshoot Windows Server environments
+
+## Skills 
+* Implement an identity infrastructure with Windows Server
+* Manage Windows Servers and workloads in a hybrid environment
+* Manage virtualization and containers in Windows Server
+* Implement a networking infrastructure in Windows Server
+* Configure storage services in Windows Server
+* Implement secure infrastructures in Windows Server
+* Implement high availability in Windows Server
+* Implement disaster recovery in Windows Server
+* Implement workload migration in Windows Server
+* Monitor environments in Windows Server
