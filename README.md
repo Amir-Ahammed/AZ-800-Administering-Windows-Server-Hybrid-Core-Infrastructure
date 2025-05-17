@@ -1,1 +1,1 @@
-# AZ-800: Administering Windows Server Hybrid Core Infrastructure
+# Administering Windows Server Hybrid Core Infrastructure
